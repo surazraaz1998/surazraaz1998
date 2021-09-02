@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surazraaz1998&label=Profile%20views&color=0e75b6&style=flat" alt="surazraaz1998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surazraaz1998" alt="surazraaz1998" /></a> </p>
-
-- 🔭 I’m currently working on [Disney+ Hotstar Clone](https://github.com/surazraaz1998/Disney-Hotstar-Clone)
+- 🔭 I’m currently working on [TextUtils](https://github.com/surazraaz1998/TextUtils)
 
 - 🌱 I’m currently learning **React js, JavaScript**
 
-- 👯 I’m looking to collaborate on [Spotify Clone](https://github.com/surazraaz1998/Spotify-Clone)
+- 👯 I’m seeking for help on [Spotify Clone](https://github.com/surazraaz1998/Spotify-Clone)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/anonymous__raaz](https://linktr.ee/anonymous__raaz)
 
@@ -35,4 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surazraaz1998&show_icons=true&locale=en&layout=compact" alt="surazraaz1998" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surazraaz1998&show_icons=true&locale=en" alt="surazraaz1998" /></p>
