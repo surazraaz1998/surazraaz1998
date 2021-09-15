@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surazraaz1998&label=Profile%20views&color=0e75b6&style=flat" alt="surazraaz1998" /> </p>
 
-- 🔭 I’m currently working on [TextUtils](https://github.com/surazraaz1998/TextUtils)
+- 🔭 I’m currently working on [News App](https://github.com/surazraaz1998/News-App)
 
 - 🌱 I’m currently learning **React js, JavaScript**
 
