@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srraaz1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZHfDJEZa4mV8n9wrkovBC_hQTp5OPuPt/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ZHfDJEZa4mV8n9wrkovBC_hQTp5OPuPt/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a fitness freak.**
 
