@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surazraaz1998&label=Profile%20views&color=0e75b6&style=flat" alt="surazraaz1998" /> </p>
 
-- 🔭 I’m currently working on [useKioskMode](https://github.com/surazraaz1998/News-App)
+- 🔭 I’m currently working on [useKioskMode](https://github.com/surazraaz1998/use-kioskMode)
 
 - 🌱 I’m currently learning **Node JS, BlockChain**
 
-- 👯 I’m seeking for help on [useKioskMode](https://github.com/surazraaz1998/Spotify-Clone)
+- 👯 I’m seeking for help on [useKioskMode](https://github.com/surazraaz1998/use-kioskMode)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/anonymous__raaz](https://linktr.ee/anonymous__raaz)
 
