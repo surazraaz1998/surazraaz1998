@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surazraaz1998&label=Profile%20views&color=0e75b6&style=flat" alt="surazraaz1998" /> </p>
 
-- 🔭 I’m currently working on [News App](https://github.com/surazraaz1998/News-App)
+- 🔭 I’m currently working on [useKioskMode](https://github.com/surazraaz1998/News-App)
 
-- 🌱 I’m currently learning **React js, JavaScript**
+- 🌱 I’m currently learning **Node JS, BlockChain**
 
-- 👯 I’m seeking for help on [Spotify Clone](https://github.com/surazraaz1998/Spotify-Clone)
+- 👯 I’m seeking for help on [useKioskMode](https://github.com/surazraaz1998/Spotify-Clone)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/anonymous__raaz](https://linktr.ee/anonymous__raaz)
 
-- 💬 Ask me about **C++, Java,Spring Boot, React Js**
+- 💬 Ask me about **JavaScipt, React JS, Redux, Jest, CyberSecurity**
 
 - 📫 How to reach me **srraaz1998@gmail.com**
 
